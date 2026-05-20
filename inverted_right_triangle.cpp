@@ -10,6 +10,7 @@ int main(){
     cin>>rows;
 
     inverted_right_triangle(rows);
+    return 0;
 
 }
 
